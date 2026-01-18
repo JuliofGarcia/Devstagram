@@ -32,7 +32,7 @@
         </div>
     </main>
     <footer>
-        <p class="text-center p-5 text-gray-500 font-bold uppercase">Devstagram - Todos los derechos reservados {{ now()->year }}</p>
+        <p class="mt-10 text-center p-5 text-gray-500 font-bold uppercase">Devstagram - Todos los derechos reservados {{ now()->year }}</p>
     </footer>
 </body>
 
